@@ -1,0 +1,8 @@
+T Shirt XL,9,130.00
+T Shirt L,2,120.00
+T Shirt M,4,90.00
+T Shirt S,7,80.00
+Shorts XL,1,120.50
+Shorts L,2,110.50
+Shorts M,8,100.50
+Shorts S,10,100.00

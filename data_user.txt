@@ -1,0 +1,3 @@
+admin,pass,0
+sompong,12345,1
+peter,12,2
